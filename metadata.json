@@ -1,0 +1,6 @@
+{
+  "name": "مسواك",
+  "description": "تطبيق مسواك لاختيار وإرسال قائمة الفواكه والخضروات المطلوبة مباشرة إلى رقم الواتساب الذي تعينه.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
